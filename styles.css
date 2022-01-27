@@ -1,0 +1,63 @@
+body {
+  background-color: #49c7d8;
+  float: left;
+  text-align: center;
+}
+
+h1 {
+  color: #c51717;
+  background-color: #6f17c2;
+}
+
+h3 {
+  text-align: center;
+  color: #af791b;
+  background-color: #34fc11;
+  text-transform: uppercase;
+}
+
+.friend1 {
+  text-align: center;
+  color: #a0d315;
+  background-color: #8f1d2c;
+  text-transform: uppercase;
+  clear: both;
+  display: inline-block;
+}
+
+.friend2 {
+    text-align: center;
+    color: #2c2b5a;
+    background-color: #a84783;
+    text-transform: uppercase;
+    clear: both;
+    display: inline-block;
+  }
+
+  .friend3 {
+    text-align: center;
+    color: #1b8caf;
+    background-color: #c21313;
+    text-transform: uppercase;
+    clear: both;
+    display: inline-block;
+  }
+
+  .friend4 {
+    text-align: center;
+    color: #3daf1b;
+    background-color: #24618a;
+    text-transform: uppercase;
+    clear: both;
+    display: inline-block;
+  }
+
+  .friend5 {
+    text-align: center;
+    color: #a04e0c;
+    background-color: #9717a8;
+    text-transform: uppercase;
+    clear: both;
+    display: inline-block;
+  }
+
